@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "db98",
-      "title": "some job",
-      "type": "Full-time",
-      "description": "some job's description",
-      "location": "London, UK",
-      "salary": "$125K - 150K",
-      "company": {
-        "name": "A big tech co.",
-        "description": "best co. in rhe world",
-        "contactEmail": "bestcompany@dev.to",
-        "contactPhone": "2344494944"
-      }
     }
   ]
 }

@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { toast } from "react-toastify";
 
 const Sidebar = ({ job, deleteJob }) => {
   const navigate = useNavigate();
@@ -11,6 +12,7 @@ const Sidebar = ({ job, deleteJob }) => {
       return;
     }
     deleteJob(id);
+    toast.success("Job deleted successfully");
     navigate("/jobs");
   };
   return (
