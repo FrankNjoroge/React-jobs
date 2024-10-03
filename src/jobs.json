@@ -85,20 +85,6 @@
       }
     },
     {
-      "id": "7acc",
-      "title": "test job",
-      "type": "Full-time",
-      "description": "this is a test job",
-      "location": "London, UK",
-      "salary": "$90K - 100K",
-      "company": {
-        "name": "Sun Culture Kenya",
-        "description": "we do great work",
-        "contactEmail": "fnjoro39@gmail.com",
-        "contactPhone": "0708618341"
-      }
-    },
-    {
       "id": "db98",
       "title": "some job",
       "type": "Full-time",
@@ -110,20 +96,6 @@
         "description": "best co. in rhe world",
         "contactEmail": "bestcompany@dev.to",
         "contactPhone": "2344494944"
-      }
-    },
-    {
-      "id": "b558",
-      "title": "ewadewaea",
-      "type": "Full-time",
-      "description": "ewdewqdeqafe",
-      "location": "ewqdeqdqw",
-      "salary": "Under $50k",
-      "company": {
-        "name": "ededeqdew",
-        "description": "ewdeqwaw",
-        "contactEmail": "test@test.com",
-        "contactPhone": "2729303933"
       }
     }
   ]
